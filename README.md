@@ -241,3 +241,22 @@ Vendor-neutral by description on purpose — the patterns here are not specific 
 | The decisions in depth | [`docs/decisions/`](docs/decisions/) |
 | What broke in production | [`docs/incidents.md`](docs/incidents.md) |
 | What is deliberately absent, and why | [NOTICE](NOTICE.md) |
+
+---
+
+## Related, and runnable
+
+This repository is description. These are the parts I could extract or rebuild against mock data,
+so the patterns can be executed rather than only read.
+
+**[mcp-rbac-demo](https://github.com/Jaswanthnani02/mcp-rbac-demo)** — a tool server with two
+authentication paths and three permission tiers, against mock data. The runnable form of
+[decision 0005](docs/decisions/0005-per-call-authorization.md).
+
+**[doc-link-check](https://github.com/Jaswanthnani02/doc-link-check)** — the link checker written
+after reorganizing this system's documentation invalidated a dozen paths cited in source comments.
+Extracted and released standalone.
+
+**[ticket-dispatcher-demo](https://github.com/Jaswanthnani02/ticket-dispatcher-demo)** —
+round-robin and weighted-load assignment against a mock ticketing API, using fake tickets and
+technicians throughout.

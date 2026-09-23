@@ -45,9 +45,13 @@ attribute the opinions in this repository to them. The opinions are mine.
 
 ## Licence
 
-The writing in this repository is licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use the ideas freely; attribution is
+The writing in this repository — the architecture analysis, decision records and incident
+write-ups — is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), whose full text is in
+[LICENSE](LICENSE). Copyright (c) 2026 Jaswanth Gaddam. Use the ideas freely; attribution is
 appreciated.
+
+That licence covers the writing and nothing else.
 
 The system it describes remains the property of the employer it was built for. This document
 conveys no rights to it.
