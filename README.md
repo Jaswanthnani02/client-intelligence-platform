@@ -256,9 +256,9 @@ Vendor-neutral by description on purpose — the patterns here are not specific 
 This repository is description. These are the parts I could extract or rebuild against mock data,
 so the patterns can be executed rather than only read.
 
-**[mcp-rbac-demo](https://github.com/Jaswanthnani02/mcp-rbac-demo)** — a tool server with two
-authentication paths and three permission tiers, against mock data. The runnable form of
-[decision 0005](docs/decisions/0005-per-call-authorization.md).
+**[mcp-rbac-demo](https://github.com/Jaswanthnani02/mcp-rbac-demo)** — a tool server with API-key
+authentication and three permission tiers, against mock data. A runnable slice of
+[decision 0005](docs/decisions/0005-per-call-authorization.md): per-call checks on the role axis.
 
 **[doc-link-check](https://github.com/Jaswanthnani02/doc-link-check)** — the link checker written
 after reorganizing this system's documentation invalidated a dozen paths cited in source comments.
