@@ -1,5 +1,12 @@
 # Client Intelligence Platform
 
+[![Architecture case study](https://img.shields.io/badge/type-architecture_case_study-0f172a?style=flat-square)](#what-was-built)
+[![Decision records](https://img.shields.io/badge/decision_records-5-1f6feb?style=flat-square)](docs/decisions/)
+[![Incident write-ups](https://img.shields.io/badge/incident_write--ups-5-cf222e?style=flat-square)](docs/incidents.md)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#stack)
+[![MCP](https://img.shields.io/badge/LLM_tools-per--call_authorization-6E56CF?style=flat-square)](docs/decisions/0005-per-call-authorization.md)
+[![Licence: CC BY 4.0](https://img.shields.io/badge/licence-CC_BY_4.0-lightgrey?style=flat-square)](LICENSE)
+
 **An architecture case study.** A data platform that continuously reconciles four disconnected
 operational systems into one queryable model, and exposes it to an LLM so account managers can
 ask questions in plain language and get answers grounded in real numbers.
