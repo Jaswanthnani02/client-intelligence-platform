@@ -19,4 +19,4 @@ reconsider**.
 
 The last section is the one worth reading. A decision record that only justifies itself is
 marketing. Every one of these has a cost I would weigh differently with what I know now, and
-two of them describe reversing an earlier decision of my own.
+one of them describes reversing an earlier decision of my own.

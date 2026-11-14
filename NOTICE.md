@@ -21,12 +21,12 @@ variables, which are themselves a map of the system's integration surface.
 **No client information.** No names, no industries specific enough to identify one, no counts, no
 revenue, no contract detail. Where an example is needed, it is invented.
 
-**No security findings.** The system has an open internal audit with unremediated items, as any
-real system does. None of it appears here, in any form, at any level of abstraction. A case study
-describing where a live system is weak is not a case study, it is a disclosure.
+**No security findings.** Nothing here describes where the live system is weak, in any form, at
+any level of abstraction. A case study describing where a live system is weak is not a case
+study, it is a disclosure.
 
-**No business metrics.** No adoption numbers, time savings, cost figures or commercial outcomes.
-Those belong to the employer, not to me, and quoting them publicly is their decision.
+**No business metrics in this repository.** No adoption numbers, time savings, cost figures or
+commercial outcomes appear here. This repository is about engineering judgment, not results.
 
 ## Included
 
